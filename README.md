@@ -1,6 +1,6 @@
 # Anti-Virus
 
-The main purpose of this project was to make an antivirus that does not interfere with your daily tasks 
+The main purpose of this project was to make an anti-virus that does not interfere with your daily tasks 
 without slowing down your computer and is easy for 
 developers.
 This Project explores how viruses access our 
